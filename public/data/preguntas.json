@@ -116,7 +116,7 @@
     "opciones": [
       "Exposición de datos sensibles (A02 Fallas criptográficas)",
       "Entidad Externa de XML",
-      "XXS-Cross Site Scripting",
+      "XSS-Cross Site Scripting",
       "Registro y Monitoreo Insuficientes"
     ],
     "respuesta_correcta": "Exposición de datos sensibles (A02 Fallas criptográficas)"
@@ -553,11 +553,11 @@
     "pregunta": "A que ataque del OWASP TOP-TEN se refiere la siguiente definición: “El atacante puede ejecutar secuencias de comandos en el navegador de la victima…”",
     "opciones": [
       "Ausencia de Control de Acceso a Funciones",
-      "Secuencia de Comandos en Sitios Cruzados (XXS)",
+      "Secuencia de Comandos en Sitios Cruzados (XSS)",
       "Referencia Directa Insegura a Objetos.",
       "Falsificación de Peticiones en Sitios Cruzados (CSRF)"
     ],
-    "respuesta_correcta": "Secuencia de Comandos en Sitios Cruzados (XXS)"
+    "respuesta_correcta": "Secuencia de Comandos en Sitios Cruzados (XSS)"
   },
   {
     "pregunta": "Que se entiende por tampering?",
