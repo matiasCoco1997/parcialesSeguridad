@@ -1,0 +1,607 @@
+[
+  {
+    "pregunta": "¿Cuál es el área de mayor control en un entorno web?",
+    "opciones": [
+      "Todas tienen el mismo nivel",
+      "Área de servidor",
+      "Área de red",
+      "Área de cliente"
+    ],
+    "respuesta_correcta": "Área de servidor"
+  },
+  {
+    "pregunta": "Cual de los siguientes tipos no corresponde a la lista DASP de 10 ataques más frecuentes?",
+    "opciones": [
+      "Inyección",
+      "Perdida de autenticación y gestión de sesiones",
+      "Control de accesos sin contraseñas seguras",
+      "Falsificación de peticiones en sitios cruzados (CSRF)"
+    ],
+    "respuesta_correcta": "Control de accesos sin contraseñas seguras"
+  },
+  {
+    "pregunta": "A que tipo de equipo se está refiriendo la siguiente definición: “Analiza el trafico de la red para tratar de detectar patrones sospechosos que indiquen ataques o intenciones de ataques contra algún recurso. Una vez identificados, puede tomar ciertas medidas contra ese tipo de tráfico, como generar alertas o inclusive bloquear o descartar el trafico que viene de ese origen”.",
+    "opciones": ["IDS", "HoneyPots", "HoneyNets", "Statefulls"],
+    "respuesta_correcta": "IDS"
+  },
+  {
+    "pregunta": "Si pone “inner…” refiere al DOM",
+    "opciones": ["CSRF", "SQL", "XSS"],
+    "respuesta_correcta": "XSS"
+  },
+  {
+    "pregunta": "Según la definición de Daño",
+    "opciones": [
+      "Es significativo.",
+      "Es cuantificable",
+      "Ninguna de las anteriores.",
+      "Se produce cuando el sistema/aplicación deja de funcionar en su totalidad."
+    ],
+    "respuesta_correcta": "Es cuantificable"
+  },
+  {
+    "pregunta": "Cuales de las siguientes tecnologías NO puede ser utilizada en un ataque de Inyección?",
+    "opciones": ["SQL", "Ninguna", "X-Path", "LDAP"],
+    "respuesta_correcta": "Ninguna"
+  },
+  {
+    "pregunta": "Indique el tipo de ataque correspondiente a la siguiente definición: “ocurre cuando datos no confiables son enviados a un intérprete como parte de un comando o consulta. Los datos hostiles del atacante pueden engañar al interprete en ejecutar comandos no intencionados o acceder datos no autorizados.”",
+    "opciones": [
+      "Perdida de autenticación y gestión de sesiones.",
+      "Falsificación de peticiones en sitios cruzados (CSRF)",
+      "Inyección",
+      "Referencia directa insegura a objetos"
+    ],
+    "respuesta_correcta": "Inyección"
+  },
+  {
+    "pregunta": "Si pone código que tiene HTTP",
+    "opciones": ["XSS", "CSRF", "SQL"],
+    "respuesta_correcta": "CSRF"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Son programas que retienen el control del equipo o cifran informacion almacenada en el mismo. En muchos casos solicitan un pago\"",
+    "opciones": [
+      "Hijackers",
+      "Backdoors",
+      "Ransomware",
+      "Stealers",
+      "KeyLogger",
+      "Rootkits"
+    ],
+    "respuesta_correcta": "Ransomware"
+  },
+  {
+    "pregunta": "Como se denomina a la zona ubicada entre la red interna y la externa donde habitualmente se ubican a los servidores de la empresa (Web, DB, FTP, Etc. )?",
+    "opciones": ["DMZ", "B2B", "LBA", "Router"],
+    "respuesta_correcta": "DMZ"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Conjunto de terminales que ejecutan software desde ubicaciones remotas\"",
+    "opciones": ["BotNet", "Ninguna", "Flooding"],
+    "respuesta_correcta": "BotNet"
+  },
+  {
+    "pregunta": "SYN Flood corresponde a una técnica utilizada para realizar ataque de…",
+    "opciones": [
+      "Secuencia de Comandos en Sitios Cruzados (XSS)",
+      "Denegación de Servicio",
+      "Inyección",
+      "Control remoto de un servidor"
+    ],
+    "respuesta_correcta": "Denegación de Servicio"
+  },
+  {
+    "pregunta": "En que zona ubica el ataque de Exposición de datos sensibles?",
+    "opciones": [
+      "Área de Red",
+      "Área de Red y Área de Servidor",
+      "Área de Servidor",
+      "Área de Cliente"
+    ],
+    "respuesta_correcta": "Área de Servidor"
+  },
+  {
+    "pregunta": "Indique el tipo de ataque correspondiente a la siguiente definición: “ … ocurre cada vez que una aplicación toma datos no confiables y los envía al navegador web sin una validación y codificación apropiada”",
+    "opciones": [
+      "Referencia directa insegura a objetos",
+      "XSS Cross Site Scripting",
+      "Falsificación de peticiones en sitios cruzados (CSRF)",
+      "Inyección"
+    ],
+    "respuesta_correcta": "XSS Cross Site Scripting"
+  },
+  {
+    "pregunta": "El uso de PBKDF2 esta asociado a que riesgo del Top10?",
+    "opciones": [
+      "Exposición de datos sensibles (A02 Fallas criptográficas)",
+      "Entidad Externa de XML",
+      "XXS-Cross Site Scripting",
+      "Registro y Monitoreo Insuficientes"
+    ],
+    "respuesta_correcta": "Exposición de datos sensibles (A02 Fallas criptográficas)"
+  },
+  {
+    "pregunta": "Cual de los siguientes factores NO es evaluado por la OWASP para determinar los riesgos incluidos en el proyecto Top-Ten?",
+    "opciones": [
+      "Impacto en el negocio",
+      "Vectores de ataque",
+      "Detectabilidad de debilidades",
+      "Impacto técnico"
+    ],
+    "respuesta_correcta": "Vectores de ataque"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Perjuicio que se produce cuando un sistema informatico falla. Es cuantificable\"",
+    "opciones": ["Vulnerabilidad", "Riesgo", "Daño", "Amenaza"],
+    "respuesta_correcta": "Daño"
+  },
+  {
+    "pregunta": "Si pone SELECT * FROM ...",
+    "opciones": ["SQL Injection", "XSS", "CSRF"],
+    "respuesta_correcta": "SQL Injection"
+  },
+  {
+    "pregunta": "Cual de estas tecnologías es considerada generadora de riesgo por ser ejecutada en el cliente?",
+    "opciones": [
+      "Activex",
+      "Java Applet",
+      "Todas las anteriores",
+      "JavaScript"
+    ],
+    "respuesta_correcta": "Todas las anteriores"
+  },
+  {
+    "pregunta": "Cual de las siguientes opciones corresponde al modelo de funcionamiento general de un IDS?",
+    "opciones": [
+      "Recolección – Identificación – Clasificación",
+      "Recolección – Análisis – Respuesta",
+      "Filtrado – Identificación – Acción",
+      "Ninguno de los anteriores"
+    ],
+    "respuesta_correcta": "Recolección – Análisis – Respuesta"
+  },
+  {
+    "pregunta": "Seleccione la opción según la definición de amenaza: “Entendemos por amenaza, aquella situación de daño cuyo… “",
+    "opciones": [
+      "Impacto genera una detención total del sistema",
+      "Impacto no afecta a la funcionalidad del sistema",
+      "Riesgo de producirse es significativo",
+      "Origen se encuentra en el código de la aplicación"
+    ],
+    "respuesta_correcta": "Riesgo de producirse es significativo"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos no es atributo del protocolo TCP?",
+    "opciones": [
+      "Un paquete tiene un numero de puerto origen y destino.",
+      "Corre sobre IP",
+      "No es orientado a conexión",
+      "Cada paquete tiene un numero de secuencia y un flag"
+    ],
+    "respuesta_correcta": "No es orientado a conexión"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos no forma parte del OWASP Top-Ten?",
+    "opciones": [
+      "Redirecciones y reenvíos no validos",
+      "Denegación de Servicio",
+      "Configuración de Seguridad Incorrecta",
+      "Referencia Directa Insegura a Objetos"
+    ],
+    "respuesta_correcta": "Denegación de Servicio"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Son programas que alteran el funcionamiento o configuracion del cliente para que el atacante pueda secuestrar informacion de interes\"",
+    "opciones": [
+      "Backdoors",
+      "Rootkits",
+      "Hijackers",
+      "Ramsomware",
+      "Stealers",
+      "KeyLogger"
+    ],
+    "respuesta_correcta": "Hijackers"
+  },
+  {
+    "pregunta": "¿Qué es el hash?",
+    "opciones": [
+      "Función reversible con entrada de tamaño variable y salida de tamaño variable.",
+      "Función no reversible con entrada de tamaño variable y salida de tamaño variable.",
+      "Función reversible con entrada de tamaño variable y salida de tamaño fijo.",
+      "Función no reversible con entrada de tamaño variable y salida de tamaño fijo."
+    ],
+    "respuesta_correcta": "Función no reversible con entrada de tamaño variable y salida de tamaño fijo."
+  },
+  {
+    "pregunta": "Que es un bugtraq?",
+    "opciones": [
+      "Es una lista de notificación sobre vulnerabilidades encontradas en software y hardware",
+      "Es un software diseñado para buscar vulnerabilidades",
+      "Ninguna de las opciones es correcta",
+      "Es una variante de virus o troyano"
+    ],
+    "respuesta_correcta": "Es una lista de notificación sobre vulnerabilidades encontradas en software y hardware"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"El atacante inunda a la victima con un gran volumen de paquetes o conexiones de red sobrecargando el equipamiento de la red servidores o ancho de banda\"",
+    "opciones": [
+      "Application DDoS attacks",
+      "Volume-Based DDoS attacks",
+      "Low-rate LDoS attacks"
+    ],
+    "respuesta_correcta": "Volume-Based DDoS attacks"
+  },
+  {
+    "pregunta": "Que se entiende por ataques drive-by download?",
+    "opciones": [
+      "Es un ataque para infectar de forma masiva a los usuarios simplemente ingresando a un sitio web determinado",
+      "Es una vulnerabilidad que afecta al código JavaScript",
+      "Ninguna respuesta es correcta",
+      "Es una técnica para redireccionar al usuario hacia otro servidor"
+    ],
+    "respuesta_correcta": "Es un ataque para infectar de forma masiva a los usuarios simplemente ingresando a un sitio web determinado"
+  },
+  {
+    "pregunta": "Indique a que termino asocia la siguiente definición: “… es la propiedad que busca mantener los datos libres de modificaciones no autorizadas.”",
+    "opciones": [
+      "Confidencialidad",
+      "Integridad",
+      "Disponibilidad",
+      "Consistencia"
+    ],
+    "respuesta_correcta": "Integridad"
+  },
+  {
+    "pregunta": "Una aplicación que utiliza SOAP en una versión previa a la 1.2 y permite que las entidades sean pasadas a la infraestructura SOAP, es potencialmente vulnerable a:",
+    "opciones": ["XSS", "Inyeccion", "Pérdida de Control de Acceso", "XXE"],
+    "respuesta_correcta": "XXE"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos NO se encuentra dentro de los controles de Acceso Interno de la Seguridad Lógica?",
+    "opciones": [
+      "Ninguno",
+      "Contraseñas",
+      "Listas de Control de Accesos",
+      "Etiquetas de Seguridad"
+    ],
+    "respuesta_correcta": "Ninguno"
+  },
+  {
+    "pregunta": "Que es un firewall?",
+    "opciones": [
+      "Un dispositivo de antivirus de red",
+      "Una librería de software que permite asegurar una aplicación web",
+      "Un dispositivo que permite la autenticación en aplicaciones",
+      "Un dispositivo que permite bloquear o filtrar el acceso entre dos redes; usualmente una privada y otra externa."
+    ],
+    "respuesta_correcta": "Un dispositivo que permite bloquear o filtrar el acceso entre dos redes; usualmente una privada y otra externa."
+  },
+  {
+    "pregunta": "¿Qué riesgos del Top10 2017 ha resuelto de la unión de dos riesgos de la versión anterior? Nota Referencia directa insegura a objetos y ausencia de control de acceso a funciones",
+    "opciones": [
+      "Exposición de datos sensibles",
+      "Uso de componentes con vulnerabilidades conocidas",
+      "Pérdida de Control de Acceso",
+      "Inyección"
+    ],
+    "respuesta_correcta": "Pérdida de Control de Acceso"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Son programas que acceden a la informacion almacenada en el equipo para facilitarsela al atacante. Su ppal objetivo son las contraseñas almacenadas o recordadas en navegadores y clientes de email o mensajeria\"",
+    "opciones": [
+      "Stealers",
+      "KeyLogger",
+      "Rootkits",
+      "Backdoors",
+      "Ramsomware",
+      "Hijackers"
+    ],
+    "respuesta_correcta": "Stealers"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos no compone la lista de técnicas de OWASP Top Ten Proactive Controls?",
+    "opciones": [
+      "Encode Data",
+      "Use Virtual Keyboard in the Login",
+      "Validate All Inputs",
+      "Parameterize Queries",
+      "Implement Appropiate Access Controls"
+    ],
+    "respuesta_correcta": "Use Virtual Keyboard in the Login"
+  },
+  {
+    "pregunta": "A que se denomina “Learning Mode” en el contexto de la implementación de un WAF?",
+    "opciones": [
+      "Al modo de operación donde la herramienta registra la actividad normal de la aplicación para posteriormente pueda ser utilizada a fin de generar reglas.",
+      "Ninguna de las opciones",
+      "Al modo de operación donde se permite que el usuario acceda a la aplicación para generar los ataques que posteriormente serán bloqueados",
+      "A la capacitación del personal que llevara adelante la configuración de la herramienta"
+    ],
+    "respuesta_correcta": "Al modo de operación donde la herramienta registra la actividad normal de la aplicación para posteriormente pueda ser utilizada a fin de generar reglas."
+  },
+  {
+    "pregunta": "Indique tipo de ataque a la siguiente definición: “… ocurren cuando datos no confiables son enviados a un interprete como parte de un comando o consulta. Los datos hostiles del atacante pueden engañar al interprete en ejecutar comandos no intencionales o acceder a datos no autorizados”",
+    "opciones": [
+      "Inyección",
+      "falsificación de peticiones en sitios cruzados (CSRF)",
+      "Perdida de autenticación y gestión de sesiones",
+      "Referencia directa insegura a objetos,"
+    ],
+    "respuesta_correcta": "Inyección"
+  },
+  {
+    "pregunta": "Cual de estas afirmaciones es verdadera en relación con los firewalls?",
+    "opciones": [
+      "No protege de todos los ataques dañinos",
+      "Todas las anteriores",
+      "No protege de accesos no autorizados",
+      "No protege de ataques internos"
+    ],
+    "respuesta_correcta": "Todas las anteriores"
+  },
+  {
+    "pregunta": "Que protocolo soporta la implementación de VPNs?",
+    "opciones": ["Secure TCP", "ICMP", "IPSec", "Ninguna"],
+    "respuesta_correcta": "IPSec"
+  },
+  {
+    "pregunta": "Que es el flooding?",
+    "opciones": [
+      "Una tecnica que busca generar solicitudes maliciosas a un servicio con la finalidad de hacer que se sature o entre en modo de espera",
+      "Un programa que busca explotar una vulnerabilidad para introducirse en el sistema",
+      "Una tecnica que consiste en robar credenciales del usuario"
+    ],
+    "respuesta_correcta": "Una tecnica que busca generar solicitudes maliciosas a un servicio con la finalidad de hacer que se sature o entre en modo de espera"
+  },
+  {
+    "pregunta": "La seguridad de la información comprende",
+    "opciones": [
+      "Análisis de Riesgo / Normativas / Plan Director",
+      "Análisis de Riesgo / Auditoria de Eventos / Normativas",
+      "Plan director / Configuración Segura / Auditoria de Eventos",
+      "Normativas / Técnicas de Protección / Plan Director"
+    ],
+    "respuesta_correcta": "Análisis de Riesgo / Normativas / Plan Director"
+  },
+  {
+    "pregunta": "Si pone <script>",
+    "opciones": ["SQL", "CSRF", "XSS"],
+    "respuesta_correcta": "XSS"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Son programas que permiten que una aplicacion maliciosa permanezca oculta en el sistema operativo o que la misma no pueda ser eliminada normalmente\"",
+    "opciones": [
+      "Rootkits",
+      "Stealers",
+      "Ramsomware",
+      "Backdoors",
+      "Hijackers",
+      "KeyLogger"
+    ],
+    "respuesta_correcta": "Rootkits"
+  },
+  {
+    "pregunta": "Cual es la principal función de un comprobador de integridad?",
+    "opciones": [
+      "Identificar los cambios realizados en los archivos del sistema",
+      "Identificar al usuario introducido cambios en el sistema de archivos.",
+      "Identificar archivos que han sido alterados en el sistema de archivos.",
+      "Notificar vía email sobre cambios en el sistema de archivos"
+    ],
+    "respuesta_correcta": "Identificar archivos que han sido alterados en el sistema de archivos."
+  },
+  {
+    "pregunta": "Indique cual de estos elementos corresponde a la siguiente definición: \"Se trata de un dispositivo que analiza el trafico web entre el servidor web y la WAN, los datos recibidos por parte del usuario y protege de diferentes ataques\"",
+    "opciones": ["Firewall Personal", "Layer 3 Firewall", "WAF", "IDS"],
+    "respuesta_correcta": "WAF"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos se utiliza con el fin de capturar tramas de red?",
+    "opciones": [
+      "Sniffer",
+      "IDS",
+      "Ninguno de los anteriores",
+      "Firewall Personal"
+    ],
+    "respuesta_correcta": "Sniffer"
+  },
+  {
+    "pregunta": "A que tipo de equipo se esta refiriendo a la siguiente definición: “Divide la LAN en varios segmentos limitando el tráfico a uno o mas segmentos en vez de permitir la difusión de los paquetes por todos los puertos”",
+    "opciones": ["Hub", "Router", "Switch", "Bridge"],
+    "respuesta_correcta": "Switch"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Magnitud de un daño * la probabilidad de que este tenga lugar\"",
+    "opciones": ["Riesgo", "Vulnerabilidad", "Amenaza", "Daño"],
+    "respuesta_correcta": "Riesgo"
+  },
+  {
+    "pregunta": "Cual de los siguientes puntos NO corresponde a un tipo de vulnerabilidad?",
+    "opciones": [
+      "Debidas al uso",
+      "Debidas a la implementación",
+      "Debidas al diseño",
+      "Ninguna de las anteriores"
+    ],
+    "respuesta_correcta": "Ninguna de las anteriores"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos corresponde a una modalidad de acceso a la información en Seguridad Lógica?",
+    "opciones": [
+      "Todas las opciones",
+      "Borrado",
+      "Escritura",
+      "Lectura",
+      "Ejecución"
+    ],
+    "respuesta_correcta": "Todas las opciones"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Son programas que registran la actividad de los dispositivos de entrada\"",
+    "opciones": [
+      "Backdoors",
+      "Hijackers",
+      "KeyLogger",
+      "Rootkits",
+      "Stealers",
+      "Ramsomware"
+    ],
+    "respuesta_correcta": "KeyLogger"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"El atacante opera a nivel aplicacion usualmente por HTTP intentando saturar el servidor y/o un servicio que este le presta\"",
+    "opciones": [
+      "Volume-Based DDoS attacks",
+      "Low-rate LDoS attacks",
+      "Application DDoS attacks"
+    ],
+    "respuesta_correcta": "Application DDoS attacks"
+  },
+  {
+    "pregunta": "¿Cuál es el área de mayor control en un entorno web?",
+    "opciones": [
+      "Área de red",
+      "Área de cliente",
+      "Área de servidor",
+      "Todas tienen el mismo nivel"
+    ],
+    "respuesta_correcta": "Área de servidor"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos NO esta catalogado como una Acción Hostil en Seguridad Física?",
+    "opciones": ["Inundación", "Sabotaje", "Fraude", "Robo"],
+    "respuesta_correcta": "Inundación"
+  },
+  {
+    "pregunta": "Cual de las siguientes características NO están asociadas a los firewalls?",
+    "opciones": [
+      "Filtrados de contenidos/ anti-spams",
+      "Balanceo de carga (BCFW)",
+      "Alta disponibilidad (ad)",
+      "Almacenamiento de datos de negocio"
+    ],
+    "respuesta_correcta": "Almacenamiento de datos de negocio"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"Son programas que habilitan un acceso alternativo al sistema permitiendo evitar el metodo de autenticacion ppal\"",
+    "opciones": [
+      "KeyLogger",
+      "Rootkits",
+      "Backdoors",
+      "Hijackers",
+      "Stealers",
+      "Ramsomware"
+    ],
+    "respuesta_correcta": "Backdoors"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes elementos NO es un control proactivo?",
+    "opciones": [
+      "Proteger los datos en todas partes",
+      "Implementas identidad digital",
+      "Validar todas las entradas",
+      "Ejecutar scanners de vulnerabilidades"
+    ],
+    "respuesta_correcta": "Ejecutar scanners de vulnerabilidades"
+  },
+  {
+    "pregunta": "¿Cuál es el conjunto de estándares que nos permite asignar a las vulnerabilidades una valoración numérica entre 0.0 y 10.0?",
+    "opciones": ["CWE", "TopTen", "CVSS", "CVE"],
+    "respuesta_correcta": "CVSS"
+  },
+  {
+    "pregunta": "¿Cuál de estas características no corresponde al Control de Acceso Interno?",
+    "opciones": [
+      "Etiquetas de Seguridad",
+      "Cifrado",
+      "Ninguna de las anteriores",
+      "Contraseñas"
+    ],
+    "respuesta_correcta": "Cifrado"
+  },
+  {
+    "pregunta": "Cual de los siguientes elementos NO forma parte de la pirámide ID?",
+    "opciones": [
+      "Confidencialidad",
+      "Ninguno",
+      "Disponibilidad",
+      "Identificación"
+    ],
+    "respuesta_correcta": "Identificación"
+  },
+  {
+    "pregunta": "En que zona ubica el ataque de Inyección?",
+    "opciones": [
+      "Ninguna",
+      "Área de Servidor",
+      "Área de Cliente",
+      "Área de Red"
+    ],
+    "respuesta_correcta": "Área de Servidor"
+  },
+  {
+    "pregunta": "A que corresponde esta definicion? \"El atacante utiliza una vulnerabilidad en el diseño o implementacion de la aplicacion\"",
+    "opciones": [
+      "Volume-Based DDoS attacks",
+      "Low-rate LDoS attacks",
+      "Application DDoS attacks"
+    ],
+    "respuesta_correcta": "Application DDoS attacks"
+  },
+  {
+    "pregunta": "A que ataque del OWASP TOP-TEN se refiere la siguiente definición: “El atacante puede ejecutar secuencias de comandos en el navegador de la victima…”",
+    "opciones": [
+      "Ausencia de Control de Acceso a Funciones",
+      "Secuencia de Comandos en Sitios Cruzados (XXS)",
+      "Referencia Directa Insegura a Objetos.",
+      "Falsificación de Peticiones en Sitios Cruzados (CSRF)"
+    ],
+    "respuesta_correcta": "Secuencia de Comandos en Sitios Cruzados (XXS)"
+  },
+  {
+    "pregunta": "Que se entiende por tampering?",
+    "opciones": [
+      "Es una vulnerabilidad que afecta al código JavaScript",
+      "Es una técnica para redireccionar al usuario hacia otro servidor",
+      "Es un ataque de alteración de datos no autorizados",
+      "Ninguna respuesta es correcta"
+    ],
+    "respuesta_correcta": "Es un ataque de alteración de datos no autorizados"
+  },
+  {
+    "pregunta": "Según el Application DoS",
+    "opciones": [
+      "Se produce cuando un ataque a un sistema de computadoras o red que causas que un servicio o recurso sea inaccesible a los usuarios debido al consumo del ancho de banda o sobrecarga de recursos computacionales",
+      "Todas las anteriores",
+      "Se inunda con paquetes o conexiones de red sobrecargando el equipamiento de la red de servidores o ancho de banda.",
+      "Genera solicitudes maliciosas a un servicio, saturándolo o haciéndolo entrar en modo de espera."
+    ],
+    "respuesta_correcta": "Todas las anteriores"
+  },
+  {
+    "pregunta": "¿En cuál de los siguientes Top Ten de OWASP se pueden encontrar vulnerabilidades relacionadas con el protocolo TLS?",
+    "opciones": [
+      "Inyeccion",
+      "Ninguna",
+      "Fallas criptograficas",
+      "Perdida de control de acceso"
+    ],
+    "respuesta_correcta": "Fallas criptograficas"
+  },
+  {
+    "pregunta": "¿Cuál no es un factor de seguridad biométrico?",
+    "opciones": [
+      "Control de voz",
+      "Temperatura corporal",
+      "Ninguna de las anteriores",
+      "Huella digital"
+    ],
+    "respuesta_correcta": "Temperatura corporal"
+  },
+  {
+    "pregunta": "Indique cual de estos ataques no corresponde a DoS",
+    "opciones": ["Slowloris", "SMURF", "Syn Flood", "CSRF"],
+    "respuesta_correcta": "CSRF"
+  }
+]
