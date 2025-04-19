@@ -26,6 +26,9 @@ export default function Preguntas() {
     [key: number]: string;
   }>({});
   const [mostrarResultados, setMostrarResultados] = useState(false);
+  const [mostrarCorrectas, setMostrarCorrectas] = useState<{
+    [key: number]: boolean;
+  }>({});
 
   const cargarPreguntas = useCallback(async () => {
     try {
@@ -78,6 +81,7 @@ export default function Preguntas() {
     setPreguntas(preguntasDesordenadas);
     setRespuestasSeleccionadas({});
     setMostrarResultados(false);
+    setMostrarCorrectas({});
   }, [preguntasOriginales]);
 
   if (loading) return <div className="text-center p-8">Cargando...</div>;
@@ -117,6 +121,26 @@ export default function Preguntas() {
                     </label>
                   </div>
                 ))}
+              </div>
+              <div className="mt-4 text-end">
+                <button
+                  onClick={() =>
+                    setMostrarCorrectas((prev) => ({
+                      ...prev,
+                      [index]: !prev[index],
+                    }))
+                  }
+                  className="bg-blue-500 text-white px-3 py-1 rounded hover:bg-blue-600 text-sm"
+                >
+                  {mostrarCorrectas[index]
+                    ? "Ocultar respuesta"
+                    : "Mostrar respuesta correcta"}
+                </button>
+                {mostrarCorrectas[index] && (
+                  <div className="mt-2 text-green-700 font-semibold">
+                    Respuesta correcta: {pregunta.respuesta_correcta}
+                  </div>
+                )}
               </div>
             </div>
           ))}
