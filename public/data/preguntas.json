@@ -99,7 +99,7 @@
       "Área de Servidor",
       "Área de Cliente"
     ],
-    "respuesta_correcta": "Área de Servidor"
+    "respuesta_correcta": "Área de Red y Área de Servidor"
   },
   {
     "pregunta": "Indique el tipo de ataque correspondiente a la siguiente definición: “ … ocurre cada vez que una aplicación toma datos no confiables y los envía al navegador web sin una validación y codificación apropiada”",
@@ -459,16 +459,6 @@
     "respuesta_correcta": "Application DDoS attacks"
   },
   {
-    "pregunta": "¿Cuál es el área de mayor control en un entorno web?",
-    "opciones": [
-      "Área de red",
-      "Área de cliente",
-      "Área de servidor",
-      "Todas tienen el mismo nivel"
-    ],
-    "respuesta_correcta": "Área de servidor"
-  },
-  {
     "pregunta": "Cual de los siguientes elementos NO esta catalogado como una Acción Hostil en Seguridad Física?",
     "opciones": ["Inundación", "Sabotaje", "Fraude", "Robo"],
     "respuesta_correcta": "Inundación"
@@ -531,7 +521,7 @@
     "respuesta_correcta": "Identificación"
   },
   {
-    "pregunta": "En que zona ubica el ataque de Inyección?",
+    "pregunta": " ¿En qué zona ubica al ataque de inyección?",
     "opciones": [
       "Ninguna",
       "Área de Servidor",
