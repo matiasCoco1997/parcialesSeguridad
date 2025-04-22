@@ -105,7 +105,7 @@
     "pregunta": "Indique el tipo de ataque correspondiente a la siguiente definición: “ … ocurre cada vez que una aplicación toma datos no confiables y los envía al navegador web sin una validación y codificación apropiada”",
     "opciones": [
       "Referencia directa insegura a objetos",
-      "XSS Cross Site Scripting",
+      "XSS-Cross Site Scripting",
       "Falsificación de peticiones en sitios cruzados (CSRF)",
       "Inyección"
     ],
@@ -129,7 +129,7 @@
       "Detectabilidad de debilidades",
       "Impacto técnico"
     ],
-    "respuesta_correcta": "Vectores de ataque"
+    "respuesta_correcta": "Impacto en el negocio"
   },
   {
     "pregunta": "A que corresponde esta definicion? \"Perjuicio que se produce cuando un sistema informatico falla. Es cuantificable\"",
