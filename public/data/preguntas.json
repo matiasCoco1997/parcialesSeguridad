@@ -109,7 +109,7 @@
       "Falsificación de peticiones en sitios cruzados (CSRF)",
       "Inyección"
     ],
-    "respuesta_correcta": "XSS Cross Site Scripting"
+    "respuesta_correcta": "XSS-Cross Site Scripting"
   },
   {
     "pregunta": "El uso de PBKDF2 esta asociado a que riesgo del Top10?",
