@@ -537,7 +537,7 @@
       "Low-rate LDoS attacks",
       "Application DDoS attacks"
     ],
-    "respuesta_correcta": "Application DDoS attacks"
+    "respuesta_correcta": "Low-rate LDoS attacks"
   },
   {
     "pregunta": "A que ataque del OWASP TOP-TEN se refiere la siguiente definición: “El atacante puede ejecutar secuencias de comandos en el navegador de la victima…”",
