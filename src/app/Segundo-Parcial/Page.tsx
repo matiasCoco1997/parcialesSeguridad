@@ -1,9 +1,17 @@
 import Preguntas from "@/components/Preguntas";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <>
-      <h1>Falta hacer lo del parcial 2</h1>
+      <div className="flex items-center justify-between p-5 ">
+        <h1 className="text-white">Parcial 2</h1>
+
+        <Link href="/" className="p-3 bg-blue rounded-lg bg-blue-500">
+          Parcial 1
+        </Link>
+      </div>
+
       <Preguntas />
     </>
   );
