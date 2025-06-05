@@ -1,0 +1,701 @@
+[
+  {
+    "pregunta": "¿Cuál de los siguientes algoritmos se basa en la dificultad de factorizar grandes números?",
+    "opciones": ["ElGamal", "RSA", "AES", "Ninguna de las anteriores"],
+    "respuesta_correcta": "RSA"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes elementos corresponden a una función de negocio de SAMM? HAY QUE MARCAR VARIAS CORRECTAS",
+    "opciones": [
+      "Verificación",
+      "Diseño",
+      "Construcción",
+      "Implementación",
+      "Gobierno"
+    ],
+    "respuesta_correcta": "Gobierno / Implementación / Verificación / Diseño"
+  },
+
+  {
+    "pregunta": "¿A qué corresponde la siguiente definición “Propiedad o conjunto de propiedades inherentes a un objeto que permiten apreciarlo como mejor, igual o peor que otros objetos de su especie”?",
+    "opciones": [
+      "Criterio de calidad",
+      "Definición de calidad de la RAE",
+      "Norma ISO"
+    ],
+    "respuesta_correcta": "Definición de calidad de la RAE"
+  },
+
+  {
+    "pregunta": "¿Que condiciona el libre uso de los algoritmos?",
+    "opciones": [
+      "Que tengan patentes en vigencia",
+      "Ninguna de las anteriores",
+      "Que sean públicos",
+      "Que sean privados"
+    ],
+    "respuesta_correcta": "Que tengan patentes en vigencia"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes algoritmos es denominado AES?",
+    "opciones": ["DEA", "Serpent", "DES", "Rijndael"],
+    "respuesta_correcta": "Rijndael"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes datos NO está contenido en los campos de un certificado X509?",
+    "opciones": [
+      "Clave privada del sujeto",
+      "Nombre del sujeto",
+      "Número de serie",
+      "Clave publica del sujeto"
+    ],
+    "respuesta_correcta": "Clave publica del sujeto"
+  },
+
+  {
+    "pregunta": "¿Cuál de estos elementos corresponde a un nivel que no define requerimientos detallados de verificación en ASVS?",
+    "opciones": ["Cursory", "Opportunistic", "Standard", "Advanced"],
+    "respuesta_correcta": "Cursory"
+  },
+
+  {
+    "pregunta": "¿Cuál de las siguientes no es una propiedad de la firma digital?",
+    "opciones": [
+      "No se puede falsificar",
+      "Se genera en base a la clave pública del destinatario",
+      "Garantiza la integridad del mensaje"
+    ],
+    "respuesta_correcta": "Se genera en base a la clave pública del destinatario"
+  },
+
+  {
+    "pregunta": "¿Cuál es el puerto por defecto para transmisiones HTTPS? ",
+    "opciones": ["443", "440", "453", "480"],
+    "respuesta_correcta": "443"
+  },
+
+  {
+    "pregunta": "Características de calidad externa-interna… ¿Cuál de las siguientes es una característica de Portabilidad?",
+    "opciones": ["Adaptabilidad", "Confiabilidad", "Mantenibilidad"],
+    "respuesta_correcta": "Adaptabilidad"
+  },
+
+  {
+    "pregunta": "Según Deming ¿Cuál de los siguientes elementos es una etapa del ciclo de calidad total? PDCA (hay varias correctas)",
+    "opciones": ["Verificar", "Actuar", "Implementar", "Planificar", "Hacer"],
+    "respuesta_correcta": "Planificar / Actuar / Verificar / Hacer"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes elementos NO se corresponde con una propiedad de la Calidad en Uso? ",
+    "opciones": [
+      "Productividad",
+      "Eficacia",
+      "Ninguna",
+      "Seguridad",
+      "Satisfacción"
+    ],
+    "respuesta_correcta": "Ninguna"
+  },
+
+  {
+    "pregunta": "¿A qué se denomina “Padding”?",
+    "opciones": [
+      "Al método para completar el inicio de un bloque de datos",
+      "Al método que permite generar una distorsión entre los distintos bloques",
+      "Al método para completar el final de un bloque de datos",
+      "Al método para autenticar mensajes con algoritmos asimétricos"
+    ],
+    "respuesta_correcta": "Al método para completar el final de un bloque de datos"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes es una ventaja de los algoritmos asimétricos?",
+    "opciones": [
+      "Permite autentificar mensajes",
+      "Rápidos para operaciones de cifrado",
+      "Tamaño del mensaje cifrado es menor"
+    ],
+    "respuesta_correcta": "Permite autentificar mensajes"
+  },
+
+  {
+    "pregunta": "¿A qué tipo de algoritmo corresponde el cifrado del Cesar?",
+    "opciones": [
+      "Cifrado por transposición de grupos",
+      "Cifrado de simétrico de flujo",
+      "Cifrado Asimétrico",
+      "Cifrado por sustitución"
+    ],
+    "respuesta_correcta": "Cifrado por sustitución"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes puntos NO es de interés para el manejo de sesiones de estado?",
+    "opciones": [
+      "Clave publica del sujeto",
+      "Nombre del sujeto",
+      "Número de serie",
+      "No esta la respuesta, ni idea cual es",
+      "Clave privada del sujeto"
+    ],
+    "respuesta_correcta": "No esta la respuesta, ni idea cual es"
+  },
+
+  {
+    "pregunta": "¿Cuál de estos elementos no corresponde a la lista de requerimientos verificación de ASVS2014?",
+    "opciones": [
+      "Authentication",
+      "Data Protection",
+      "Mobile",
+      "Cryptography at Rest",
+      "Communications",
+      "Performance"
+    ],
+    "respuesta_correcta": "Performance"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una propiedad de la firma digital?",
+    "opciones": [
+      "Solo puede ser generada por su legítimo titular",
+      "Es públicamente verificable",
+      "Se genera en base a la clave pública del destinatario",
+      "Va ligada indisolublemente al mensaje"
+    ],
+    "respuesta_correcta": "Se genera en base a la clave pública del destinatario"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una desventaja de los algoritmos asimétricos?",
+    "opciones": [
+      "Tamaño del mensaje cifrado es mayor",
+      "Menor consumo de recursos",
+      "Mayor velocidad de procesamiento"
+    ],
+    "respuesta_correcta": "Tamaño del mensaje cifrado es mayor"
+  },
+  {
+    "pregunta": "¿Qué tipo de algoritmo es Salsa20?",
+    "opciones": [
+      "Cifrado asimétrico de flujo",
+      "Cifrado simétrico de flujo",
+      "Algoritmo de hash"
+    ],
+    "respuesta_correcta": "Cifrado simétrico de flujo"
+  },
+  {
+    "pregunta": "¿Cuál es el significado de SSL?",
+    "opciones": [
+      "Secure Sockets Layer",
+      "Secure Socket Level",
+      "Standard Socket Layer",
+      "Simple Socket Layer"
+    ],
+    "respuesta_correcta": "Secure Sockets Layer"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes puntos NO es un objetivo de la administración de usuarios y privilegios? ",
+    "opciones": [
+      "Proveer la necesaria auditoria y trazabilidad de funcionalidad administrativa",
+      "A. Los usuarios no pueden acceder o utilizar funcionalidades administrativas",
+      "Los usuarios transmiten información de manera cifrada y confidencial",
+      "Las funciones de nivel de administrador están segregadas apropiadamente de la actividad del usuario"
+    ],
+    "respuesta_correcta": "Los usuarios transmiten información de manera cifrada y confidencial"
+  },
+  {
+    "pregunta": "¿Dentro de calidad externa-interna cuál de las siguientes es una característica de usabilidad?",
+    "opciones": ["Operabilidad", "Seguridad", "Eficiencia"],
+    "respuesta_correcta": "Operabilidad"
+  },
+  {
+    "pregunta": "Que característica de la calidad Interna/externa NO está contemplada en SQuaRE? ",
+    "opciones": ["Fiabilidad", "Ninguna", "Mantenibilidad", "Portabilidad"],
+    "respuesta_correcta": "Ninguna"
+  },
+  {
+    "pregunta": "Características de calidad externa-interna… ¿Cuál de las siguientes es una característica de Funcionalidad?",
+    "opciones": ["Confiabilidad", "Eficiencia", "Adecuación"],
+    "respuesta_correcta": "Adecuación"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un método de Autorización en donde se asegura la información mediante la asignación de etiquetas de sensibilidad en la información y comparando esta con el nivel de sensibilidad de un usuario está operando?",
+    "opciones": [
+      "Discretionary Access Control (DAC)",
+      "Mandatory Access Control (MAC)",
+      "Role-Based Access Control (RBAC)"
+    ],
+    "respuesta_correcta": "Mandatory Access Control (MAC)"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes puntos NO es un objetivo de la administración de usuarios y privilegios? ",
+    "opciones": [
+      "Los usuarios no pueden acceder o utilizar funcionalidades administrativas",
+      "Los usuarios transmiten información de manera cifrada y confidencial",
+      "Proveer la necesaria auditoria y trazabilidad de funcionalidad administrativa",
+      "Las funciones de nivel de administrador están segregadas apropiadamente de la actividad del usuario"
+    ],
+    "respuesta_correcta": "Los usuarios transmiten información de manera cifrada y confidencial"
+  },
+  {
+    "pregunta": "Dada la clave publica (p, y, n) y la clave privada (p, x, n). Indique a que logaritmo corresponden las siguientes definiciones de cifrado \n\n a = p^k (mod n)\n\nb = y^k m (mod n)",
+    "opciones": ["Diffie-Hellman", "RSA", "ElGammal"],
+    "respuesta_correcta": "ElGammal"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es una desventaja de los algoritmos asimétricos?",
+    "opciones": [
+      "Tamaño del mensaje cifrado es menor",
+      "Se requieren claves de gran extensión",
+      "Rápidos para operaciones de cifrado"
+    ],
+    "respuesta_correcta": "Se requieren claves de gran extensión"
+  },
+  {
+    "pregunta": "¿Sobre qué tecnología están desarrollados los Web Services?",
+    "opciones": ["AES", "XML/SOAP", "HTML", "HTTPS"],
+    "respuesta_correcta": "XML/SOAP"
+  },
+  {
+    "pregunta": "Cuál de los siguientes elementos NO corresponde a una característica positiva de los sistemas criptográficos simétricos?",
+    "opciones": [
+      "Velocidad de Cifrado",
+      "Robustez",
+      "Sencillez de implementación",
+      "Longitud del mensaje limitada por la implementación"
+    ],
+    "respuesta_correcta": "Longitud del mensaje limitada por la implementación"
+  },
+  {
+    "pregunta": "¿Para qué se utiliza la firma digital?",
+    "opciones": [
+      "Ninguna",
+      "Garantizar la autenticidad de datos",
+      "Garantizar la confidencialidad de datos",
+      "Generar datos aleatorios"
+    ],
+    "respuesta_correcta": "Garantizar la autenticidad de datos"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes verifica la relación de los certificados y la identidad de sus titulares?",
+    "opciones": [
+      "Servidor de Validación de Certificados (OCSP)",
+      "Autoridad de Certificación (CA)",
+      "Entidad Emisora de Certificados (CA)",
+      "Autoridad de registro (RA)"
+    ],
+    "respuesta_correcta": "Autoridad de registro (RA)"
+  },
+  {
+    "pregunta": "Concepto de calidad interna-externa… ¿Cuál de las siguientes es una característica de Capacidad de mantenimiento?",
+    "opciones": ["Eficiencia", "Estabilidad", "Confiabilidad"],
+    "respuesta_correcta": "Estabilidad"
+  },
+  {
+    "pregunta": "¿Cuál corresponde al grupo de 'PROJECT AND ORGANIZATIONAL BASE PRACTICES'?",
+    "opciones": [
+      "Monitorización de proyectos",
+      "Plan technical effort",
+      "Pruebas de rendimiento"
+    ],
+    "respuesta_correcta": "Plan technical effort"
+  },
+  {
+    "pregunta": "¿Qué significa el acrónimo CMM?",
+    "opciones": [
+      "Capacity Model Metrics",
+      "Capability Maturity Model",
+      "Capability Model and Metrics",
+      "Capacity Measure Model"
+    ],
+    "respuesta_correcta": "Capability Maturity Model"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta según indica el siguiente mensaje generado mediante el cifrado del Cesar: 'od uhvsxhvwd fruuhfwd frqwlhqh od sdodeud ixhjr'",
+    "opciones": [
+      "Los fideos tienen salsa",
+      "El fuego se apagará pronto",
+      "Hay estrellas en el cielo",
+      "La torre es demasiado alta"
+    ],
+    "respuesta_correcta": "El fuego se apagará pronto"
+  },
+  {
+    "pregunta": "¿Qué estándar se ha definido para la seguridad especifica de Web Services?",
+    "opciones": ["WSDL", "HTTPS", "WSS", "TLS"],
+    "respuesta_correcta": "WSS"
+  },
+  {
+    "pregunta": "¿Que establece el marco legal para el uso de la Firma Digital en la República Argentina? ",
+    "opciones": [
+      "El Pacto de San Jose de Costa Rica",
+      "La Constitución Nacional",
+      "La Ley 25.506",
+      "La Ley 24.449"
+    ],
+    "respuesta_correcta": "La Ley 25.506"
+  },
+  {
+    "pregunta": "¿Cuál es el puerto por defecto para transmisiones HTTPS?",
+    "opciones": ["453", "443", "440", "480"],
+    "respuesta_correcta": "443"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un método de Autorización en donde se restringe el acceso a la información sobre la pertenencia a ciertos grupos? ",
+    "opciones": [
+      "Ninguna",
+      "Mandatory Access Control (MAC)",
+      "Discretionary Access Control (DAC)",
+      "Role Based Access Control (RBAC)"
+    ],
+    "respuesta_correcta": "Discretionary Access Control (DAC)"
+  },
+  {
+    "pregunta": "¿Cuál de estos elementos corresponde la escala con que se representan los niveles de madurez de SAMM?",
+    "opciones": [
+      "Bajo, Medio, Alto",
+      "0, 1, 2, 3",
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+      "A, B, C"
+    ],
+    "respuesta_correcta": "0, 1, 2, 3"
+  },
+  {
+    "pregunta": "Indique cual es el orden creciente en base al nivel de seguridad de las siguientes técnicas de autenticación de usuarios",
+    "opciones": [
+      "Básica y segura, basada en formularios, integrada, fuerte, basada en certificado",
+      "Básica y segura, basada en formularios, integrada, basada en certificado, fuerte",
+      "Basada en formularios, básica y segura, integrada, fuerte, basada en certificado",
+      "Básica y segura, integrada, basada en formularios, basada en certificado, fuerte.",
+      "Basada en formularios, básica y segura, integrada, basada en certificado, fuerte"
+    ],
+    "respuesta_correcta": "Básica y segura, basada en formularios, integrada, basada en certificado, fuerte"
+  },
+  {
+    "pregunta": "Indique cual es la definición correcta de j según la siguiente representación de un sistema criptográfico: Dj (Ej (m)) = m",
+    "opciones": [
+      "Representa el conjunto de claves que se pueden emplear",
+      "Representa el conjunto de transformaciones de cifrado",
+      "Representa un conjunto de todos los mensajes sin cifrar",
+      "Representa el conjunto de todos los posibles mensajes cifrados"
+    ],
+    "respuesta_correcta": "Representa el conjunto de claves que se pueden emplear"
+  },
+  {
+    "pregunta": "Que modelo de autorización utiliza un sistema UNIX/Linux convencional para manejar sus archivos?",
+    "opciones": [
+      "Mandatory Access Control (MAC)",
+      "Role Based Access Control (RBAC)",
+      "Ninguna",
+      "Discretionary Access Control (DAC)"
+    ],
+    "respuesta_correcta": "Discretionary Access Control (DAC)"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un modo de cifrado de bloques?",
+    "opciones": [
+      "CBC _ Cipher Block Chaining",
+      "OFB _ Output Feedback",
+      "CFB _ Cipher Feedback",
+      "Ninguna de las opciones"
+    ],
+    "respuesta_correcta": "Ninguna de las opciones"
+  },
+  {
+    "pregunta": "¿Cuál de estos elementos NO corresponde a la lista de requerimientos verificación de ASVS 2014?",
+    "opciones": [
+      "Mobile",
+      "Data Protection",
+      "Performance",
+      "Cryptography at Rest",
+      "Communications",
+      "Authentication"
+    ],
+    "respuesta_correcta": "Performance"
+  },
+  {
+    "pregunta": "Determine el mensaje original para el siguiente cifrado obtenido mediante el cifrado de XOR solamente:\n\nValor cifrado: 101110110010\n\nContraseña:011100110110",
+    "opciones": [
+      "111100111010",
+      "110010000100",
+      "001110110110",
+      "101010100011"
+    ],
+    "respuesta_correcta": "110010000100"
+  },
+  {
+    "pregunta": "¿Qué mecanismo adiciona criptografía al proceso de hash con el fin de incorporar autenticación a la seguridad del mismo? ",
+    "opciones": ["Ninguna de las opciones", "MAC", "AES", "MD5"],
+    "respuesta_correcta": "MAC"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones no corresponde a un protocolo para interactuar con una aplicación sin contraseña?",
+    "opciones": ["OpenID Connect", "OAuth", "Autenticación básica HTTP"],
+    "respuesta_correcta": "Autenticación básica HTTP"
+  },
+  {
+    "pregunta": "Indique a que corresponde la siguiente definición: “se define como una función o método para generar un valor que representa de manera casi univoca un dato”",
+    "opciones": [
+      "Función de descifrado de datos",
+      "Función de encriptación de datos",
+      "Función de Hash",
+      "Función de firma digital"
+    ],
+    "respuesta_correcta": "Función de Hash"
+  },
+  {
+    "pregunta": "¿Qué cantidad de Pas están definidas para el SSE-CMM?",
+    "opciones": ["16", "24", "18", "22"],
+    "respuesta_correcta": "22"
+  },
+  {
+    "pregunta": "Dada la clave publica (p, y, n) y la clave privada (p, x, n). Indique a que logaritmo corresponden las siguientes definiciones de cifrado:\n\na = p^k (mod n)\n\nb = y^k m (mod n) ",
+    "opciones": ["AES", "Ninguna de las opciones", "RSA", "ElGamal"],
+    "respuesta_correcta": "ElGamal"
+  },
+  {
+    "pregunta": "¿Qué representa un ataque vertical en control de acceso?",
+    "opciones": [
+      "Generar un comportamiento inesperado en el sistema sin obtener acceso superior ni robar información",
+      "Buscar robar información de alguien que está al mismo nivel",
+      "Un usuario intenta acceder a información de un nivel superior (escalada de privilegios)"
+    ],
+    "respuesta_correcta": "Un usuario intenta acceder a información de un nivel superior (escalada de privilegios)"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de autenticación básica y segura?",
+    "opciones": [
+      "HTTP Basic / HTTP-Digest (no es un protocolo cifrado)",
+      "Basada en formularios (usuario - contraseña)",
+      "Integrada en un sistema central"
+    ],
+    "respuesta_correcta": "HTTP Basic / HTTP-Digest (no es un protocolo cifrado)"
+  },
+  {
+    "pregunta": "¿Cómo funciona el Discretionary Access Control (DAC)?",
+    "opciones": [
+      "Se establecen políticas basadas en atributos para controlar el acceso",
+      "Se cataloga la información y jerárquicamente se definen los accesos",
+      "El usuario discrecionalmente define el acceso a su información"
+    ],
+    "respuesta_correcta": "El usuario discrecionalmente define el acceso a su información"
+  },
+  {
+    "pregunta": "¿Qué implica la seudonimización en el enmascaramiento de datos?",
+    "opciones": [
+      "Reemplazar datos con nombres ficticios",
+      "Ocultar información sensible utilizando códigos o identificadores",
+      "Eliminar por completo los datos sensibles"
+    ],
+    "respuesta_correcta": "Ocultar información sensible utilizando códigos o identificadores"
+  },
+  {
+    "pregunta": "¿En qué se basa la autenticación basada en certificado?",
+    "opciones": [
+      "x509",
+      "Contraseñas de un solo uso",
+      "Autorización en la web"
+    ],
+    "respuesta_correcta": "x509"
+  },
+  {
+    "pregunta": "¿Qué tecnología se utiliza para contraseñas de un solo uso?",
+    "opciones": [
+      "One-time password",
+      "Funciones de HMAC",
+      "Time-based one-time password"
+    ],
+    "respuesta_correcta": "One-time password"
+  },
+  {
+    "pregunta": "¿Por qué es importante implementar controles de entrada sólidos?",
+    "opciones": [
+      "Aumentar la cantidad de datos entrantes indiscriminadamente",
+      "Ralentizar el flujo de datos",
+      "Garantizar la validez y seguridad de los datos"
+    ],
+    "respuesta_correcta": "Garantizar la validez y seguridad de los datos"
+  },
+  {
+    "pregunta": "¿Por qué es esencial seleccionar la función de autenticación más apropiada?",
+    "opciones": [
+      "Para reducir la eficiencia del proceso de autenticación",
+      "Para garantizar que los bienes y recursos estén protegidos adecuadamente",
+      "Para aumentar la complejidad del sistema"
+    ],
+    "respuesta_correcta": "Para garantizar que los bienes y recursos estén protegidos adecuadamente"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal al reemplazar datos sensibles en el enmascaramiento de datos?",
+    "opciones": [
+      "Facilitar la visualización de datos en sistemas antiguos",
+      "Proteger información confidencial ante situaciones fuera de control",
+      "Aumentar el tamaño de los conjuntos de datos"
+    ],
+    "respuesta_correcta": "Proteger información confidencial ante situaciones fuera de control"
+  },
+  {
+    "pregunta": "¿Dónde se recomienda almacenar los registros de logging para facilitar el análisis?",
+    "opciones": [
+      "En papel para mayor seguridad",
+      "En la nube con posibilidad de interconectar flujos de información",
+      "En dispositivos locales únicamente"
+    ],
+    "respuesta_correcta": "En la nube con posibilidad de interconectar flujos de información"
+  },
+  {
+    "pregunta": "¿Cómo se define un ataque horizontal en control de acceso?",
+    "opciones": [
+      "Generar un comportamiento inesperado en el sistema sin obtener acceso superior ni robar información",
+      "Un usuario intenta acceder a información de un nivel superior (escalada de privilegios)",
+      "Buscar robar información de alguien que está al mismo nivel"
+    ],
+    "respuesta_correcta": "Buscar robar información de alguien que está al mismo nivel"
+  },
+  {
+    "pregunta": "¿Qué implica el re-uso de contraseñas en términos de seguridad?",
+    "opciones": [
+      "Reducción de la complejidad del sistema",
+      "Vulnerabilidad a ataques",
+      "Mayor seguridad"
+    ],
+    "respuesta_correcta": "Vulnerabilidad a ataques"
+  },
+  {
+    "pregunta": "¿Cómo se pueden prevenir ataques por fuerza bruta según las buenas prácticas?",
+    "opciones": [
+      "Utilizar sistemas de autenticación de factor múltiple",
+      "Enviar contraseñas débiles por mensaje de error",
+      "Solicitar reautenticación"
+    ],
+    "respuesta_correcta": "Solicitar reautenticación"
+  },
+  {
+    "pregunta": "¿Cómo se caracteriza el Attribute-Based Access Control (ABAC)?",
+    "opciones": [
+      "Roles asignados con permisos específicos",
+      "Se establecen políticas que utilizan la información de atributos para establecer el acceso",
+      "El usuario discrecionalmente define el acceso a su información"
+    ],
+    "respuesta_correcta": "Se establecen políticas que utilizan la información de atributos para establecer el acceso"
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la autenticación fuerte o de factor múltiple?",
+    "opciones": [
+      "Uso de múltiples formas de verificación",
+      "Generación de contraseñas temporales",
+      "Reutilización de contraseñas"
+    ],
+    "respuesta_correcta": "Uso de múltiples formas de verificación"
+  },
+  {
+    "pregunta": "¿Qué significa 'Codificar el control en la actividad objetivo' en la implementación de control de acceso?",
+    "opciones": [
+      "Disponer de un controlador centralizado",
+      "Utilizar un control central de acceso",
+      "Codificar el control directamente en la actividad objetivo"
+    ],
+    "respuesta_correcta": "Codificar el control directamente en la actividad objetivo"
+  },
+  {
+    "pregunta": "¿En qué consiste un ataque de lógica de negocio en control de acceso?",
+    "opciones": [
+      "Buscar robar información de alguien que está al mismo nivel",
+      "Un usuario intenta acceder a información de un nivel superior (escalada de privilegios)",
+      "Generar un comportamiento inesperado en el sistema sin obtener acceso superior ni robar información"
+    ],
+    "respuesta_correcta": "Generar un comportamiento inesperado en el sistema sin obtener acceso superior ni robar información"
+  },
+  {
+    "pregunta": "¿En qué se basa el Role-Based Access Control (RBAC)?",
+    "opciones": [
+      "Roles asignados con permisos específicos",
+      "Se cataloga la información y jerárquicamente se definen los accesos",
+      "El usuario discrecionalmente define el acceso a su información"
+    ],
+    "respuesta_correcta": "Roles asignados con permisos específicos"
+  },
+  {
+    "pregunta": "¿Cuál es la consecuencia de una falla en los controles de entrada de datos?",
+    "opciones": [
+      "Mejora en el rendimiento del sistema",
+      "Incremento de la seguridad",
+      "Pérdida de integridad y seguridad de datos"
+    ],
+    "respuesta_correcta": "Pérdida de integridad y seguridad de datos"
+  },
+  {
+    "pregunta": "¿Qué normativa europea se relaciona con la protección de datos y promueve la seudonimización?",
+    "opciones": ["GDPR", "FCC", "HIPAA"],
+    "respuesta_correcta": "GDPR"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la autenticación en la web?",
+    "opciones": [
+      "Identificar a los usuarios de manera confusa",
+      "Permitir acceso sin restricciones",
+      "Garantizar que solo los usuarios autorizados accedan a recursos específicos"
+    ],
+    "respuesta_correcta": "Garantizar que solo los usuarios autorizados accedan a recursos específicos"
+  },
+  {
+    "pregunta": "¿Cuál es una buena práctica para la seguridad de contraseñas?",
+    "opciones": [
+      "Transmitir contraseñas solo sobre TLS",
+      "Implementar métodos inseguros de recuperación",
+      "Almacenar contraseñas de forma insegura"
+    ],
+    "respuesta_correcta": "Transmitir contraseñas solo sobre TLS"
+  },
+  {
+    "pregunta": "¿Qué implica el Mandatory Access Control (MAC)?",
+    "opciones": [
+      "Se cataloga la informacion y jerarquicamente se definen los accesos",
+      "El usuario discrecionalmente define el acceso a su información",
+      "Roles asignados con permisos específicos"
+    ],
+    "respuesta_correcta": "Se cataloga la informacion y jerarquicamente se definen los accesos"
+  },
+  {
+    "pregunta": "En el contexto de la validación de entrada, ¿qué hace una white list?",
+    "opciones": [
+      "Acepta todos los datos indiscriminadamente",
+      "Filtra datos basándose únicamente en el color",
+      "Invalida todos los datos excepto los que cumplen condiciones específicas"
+    ],
+    "respuesta_correcta": "Invalida todos los datos excepto los que cumplen condiciones específicas"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal del logging en sistemas informáticos?",
+    "opciones": [
+      "Almacenar archivos para desarrollo",
+      "Crear copias de seguridad automáticas",
+      "Generar registros para comprender la actividad del sistema"
+    ],
+    "respuesta_correcta": "Generar registros para comprender la actividad del sistema"
+  },
+  {
+    "pregunta": "¿Qué tecnología se relaciona con la autorización en la web mediante tokens?",
+    "opciones": ["JWT", "OAuth", "SAML"],
+    "respuesta_correcta": "JWT"
+  },
+  {
+    "pregunta": "¿Cuando se puede identificar a alguien en la web según la autenticación?",
+    "opciones": [
+      "Solo en situaciones de baja seguridad",
+      "Siempre, independientemente de la confianza en el proceso",
+      "Solo cuando hay un proceso confiable de autenticación de usuarios"
+    ],
+    "respuesta_correcta": "Solo cuando hay un proceso confiable de autenticación de usuarios"
+  },
+  {
+    "pregunta": "¿Qué significa 'Codificar el control en la actividad objetivo' en la implementación de control de acceso?",
+    "opciones": [
+      "Codificar el control directamente en la actividad objetivo",
+      "Disponer de un controlador centralizado",
+      "Utilizar un control central de acceso"
+    ],
+    "respuesta_correcta": "Codificar el control directamente en la actividad objetivo"
+  }
+]

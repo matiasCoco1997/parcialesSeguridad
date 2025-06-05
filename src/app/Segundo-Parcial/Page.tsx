@@ -1,4 +1,4 @@
-import Preguntas from "@/components/Preguntas";
+import PreguntasSegundo from "@/components/PreguntasSegundo";
 import Link from "next/link";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
         </Link>
       </div>
 
-      <Preguntas />
+      <PreguntasSegundo />
     </>
   );
 }
