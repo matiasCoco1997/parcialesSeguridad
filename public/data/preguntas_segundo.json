@@ -71,12 +71,6 @@
   },
 
   {
-    "pregunta": "¿Cuál es el puerto por defecto para transmisiones HTTPS? ",
-    "opciones": ["443", "440", "453", "480"],
-    "respuesta_correcta": "443"
-  },
-
-  {
     "pregunta": "Características de calidad externa-interna… ¿Cuál de las siguientes es una característica de Portabilidad?",
     "opciones": ["Adaptabilidad", "Confiabilidad", "Mantenibilidad"],
     "respuesta_correcta": "Adaptabilidad"
@@ -185,26 +179,6 @@
     "respuesta_correcta": "Cifrado simétrico de flujo"
   },
   {
-    "pregunta": "¿Cuál es el significado de SSL?",
-    "opciones": [
-      "Secure Sockets Layer",
-      "Secure Socket Level",
-      "Standard Socket Layer",
-      "Simple Socket Layer"
-    ],
-    "respuesta_correcta": "Secure Sockets Layer"
-  },
-  {
-    "pregunta": "¿Cuál de los siguientes puntos NO es un objetivo de la administración de usuarios y privilegios? ",
-    "opciones": [
-      "Proveer la necesaria auditoria y trazabilidad de funcionalidad administrativa",
-      "A. Los usuarios no pueden acceder o utilizar funcionalidades administrativas",
-      "Los usuarios transmiten información de manera cifrada y confidencial",
-      "Las funciones de nivel de administrador están segregadas apropiadamente de la actividad del usuario"
-    ],
-    "respuesta_correcta": "Los usuarios transmiten información de manera cifrada y confidencial"
-  },
-  {
     "pregunta": "¿Dentro de calidad externa-interna cuál de las siguientes es una característica de usabilidad?",
     "opciones": ["Operabilidad", "Seguridad", "Eficiencia"],
     "respuesta_correcta": "Operabilidad"
@@ -227,16 +201,6 @@
       "Role-Based Access Control (RBAC)"
     ],
     "respuesta_correcta": "Mandatory Access Control (MAC)"
-  },
-  {
-    "pregunta": "¿Cuál de los siguientes puntos NO es un objetivo de la administración de usuarios y privilegios? ",
-    "opciones": [
-      "Los usuarios no pueden acceder o utilizar funcionalidades administrativas",
-      "Los usuarios transmiten información de manera cifrada y confidencial",
-      "Proveer la necesaria auditoria y trazabilidad de funcionalidad administrativa",
-      "Las funciones de nivel de administrador están segregadas apropiadamente de la actividad del usuario"
-    ],
-    "respuesta_correcta": "Los usuarios transmiten información de manera cifrada y confidencial"
   },
   {
     "pregunta": "Dada la clave publica (p, y, n) y la clave privada (p, x, n). Indique a que logaritmo corresponden las siguientes definiciones de cifrado \n\n a = p^k (mod n)\n\nb = y^k m (mod n)",
@@ -423,11 +387,6 @@
       "101010100011"
     ],
     "respuesta_correcta": "110010000100"
-  },
-  {
-    "pregunta": "¿Qué mecanismo adiciona criptografía al proceso de hash con el fin de incorporar autenticación a la seguridad del mismo? ",
-    "opciones": ["Ninguna de las opciones", "MAC", "AES", "MD5"],
-    "respuesta_correcta": "MAC"
   },
   {
     "pregunta": "¿Cuál de las siguientes opciones no corresponde a un protocolo para interactuar con una aplicación sin contraseña?",
@@ -690,15 +649,6 @@
     "respuesta_correcta": "Solo cuando hay un proceso confiable de autenticación de usuarios"
   },
   {
-    "pregunta": "¿Qué significa 'Codificar el control en la actividad objetivo' en la implementación de control de acceso?",
-    "opciones": [
-      "Codificar el control directamente en la actividad objetivo",
-      "Disponer de un controlador centralizado",
-      "Utilizar un control central de acceso"
-    ],
-    "respuesta_correcta": "Codificar el control directamente en la actividad objetivo"
-  },
-  {
     "pregunta": "¿Cuántas etapas tiene el ciclo de Calidad Total de Deming?",
     "opciones": ["3", "4", "6", "5"],
     "respuesta_correcta": "4"
@@ -830,16 +780,6 @@
     "respuesta_correcta": "Representa el conjunto de claves que se pueden emplear"
   },
   {
-    "pregunta": "¿Para que se utiliza la firma digital?",
-    "opciones": [
-      "Garantizar la autenticidad de datos",
-      "Ninguna de estas opciones",
-      "Garantizar la confidencialidad de datos",
-      "Generar datos aleatorios"
-    ],
-    "respuesta_correcta": "Garantizar la autenticidad de datos"
-  },
-  {
     "pregunta": "¿Que modelo de autorizacion utliza un sistema UNIX/Linux convencional para manejar sus archivos?",
     "opciones": [
       "Ninguna de estas opciones",
@@ -850,24 +790,9 @@
     "respuesta_correcta": "Discretionary Access Control (DAC)"
   },
   {
-    "pregunta": "¿Sobre que tecnologia estan desarrollados los Web Services?",
-    "opciones": ["HTML", "HTTPS", "XML/SOAP", "AES"],
-    "respuesta_correcta": "XML/SOAP"
-  },
-  {
     "pregunta": "¿Cual de los siguientes algoritmos corresponde a un cifrado asimetrico?",
     "opciones": ["RSA", "Twofish", "3DES", "AES"],
     "respuesta_correcta": "RSA"
-  },
-  {
-    "pregunta": "¿Cual de los siguientes NO es un modo de cifrado de bloques?",
-    "opciones": [
-      "Ninguna de las opciones",
-      "OFB - Output Feedback",
-      "CFB - Cipher Feedback",
-      "ACBC - Cipher Block ChainingES"
-    ],
-    "respuesta_correcta": "Ninguna de las opciones"
   },
   {
     "pregunta": "Data la clave pública (p, y, n) y la clave privada (p,x,n). Indique a qué algoritmo corresponden las siguientes definiciones de cifrado: a  = p ^ k (mod n) b  = y ^ k m (mod n)",
@@ -883,16 +808,6 @@
     "pregunta": "Cual de estos elementos corresponde a un nivel que no define requerimientos detallados de verificación ASVS?",
     "opciones": ["Cursory", "Advanced", "Opportunistic", "Standard"],
     "respuesta_correcta": "Cursory"
-  },
-  {
-    "pregunta": "¿Que condiciona el libre uso de los algoritmos?",
-    "opciones": [
-      "Que tengan patentes en vigencia",
-      "Que sean publcios",
-      "Ninguna de estas opciones",
-      "Que sean privados"
-    ],
-    "respuesta_correcta": "Que tengan patentes en vigencia"
   },
   {
     "pregunta": "¿Cual de los siguientes algoritmos corresponde a un cifrado simetrico de flujo?",
@@ -918,21 +833,6 @@
       "Ninguna de las otras opciones"
     ],
     "respuesta_correcta": "modificación de cada carácter del texto claro por otro correspondiente al texto cifrado"
-  },
-  {
-    "pregunta": "¿Cual de los siguientes algoritmos es denominado AES?",
-    "opciones": ["DES", "IDEA", "Rijndael", "Serpent"],
-    "respuesta_correcta": "Rijndael"
-  },
-  {
-    "pregunta": "¿Que significa el acronimo CMM?",
-    "opciones": [
-      "Capacibility Maturity Model",
-      "Capacity Model Metrics",
-      "Capacity Measure Model",
-      "Capability Model and Metrics"
-    ],
-    "respuesta_correcta": "Capacibility Maturity Model"
   },
   {
     "pregunta": "Indique cual es el ordene creciente en base al nivel de seguridad de las siguientes tecnicas de autenticacion de usuarios",
@@ -992,16 +892,6 @@
       "Las funciones de nivel de administrador están segregadas apropiadamente de la actividad del usuario"
     ],
     "respuesta_correcta": "Los usuarios transmiten información de manera cifrada y confidencial"
-  },
-  {
-    "pregunta": "¿Cuál de los siguientes elementos NO corresponde a una característica positiva de los sistemas criptográficos simétricos?",
-    "opciones": [
-      "Robustez",
-      "Sencillez de implementacion",
-      "Longitud del mensaje limitada por la implementacion",
-      "Velocidad de cifrado"
-    ],
-    "respuesta_correcta": "Longitud del mensaje limitada por la implementacion"
   },
   {
     "pregunta": "Marque la respuesta correcta según indica el siguiente mensaje generado mediante el cifrado de Cesar: 'od uhvsxhvwd fruuhfwd frqwlhqh od sdoudeud ixhjr'   (M,3)",
