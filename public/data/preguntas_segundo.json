@@ -44,17 +44,6 @@
   },
 
   {
-    "pregunta": "¿Cuál de los siguientes datos NO está contenido en los campos de un certificado X509?",
-    "opciones": [
-      "Clave privada del sujeto",
-      "Nombre del sujeto",
-      "Número de serie",
-      "Clave publica del sujeto"
-    ],
-    "respuesta_correcta": "Clave publica del sujeto"
-  },
-
-  {
     "pregunta": "¿Cuál de estos elementos corresponde a un nivel que no define requerimientos detallados de verificación en ASVS?",
     "opciones": ["Cursory", "Opportunistic", "Standard", "Advanced"],
     "respuesta_correcta": "Cursory"
