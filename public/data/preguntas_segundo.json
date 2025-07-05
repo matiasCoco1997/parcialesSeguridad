@@ -1010,7 +1010,7 @@
   {
     "pregunta": "¿Cual de las siguientes es una ventaja de los algoritmos SIMETRICOS?",
     "opciones": ["No requiere confidencialidad en la distribucion de clave", "La misma clave puede ser utilizada por multiples actores en la comunicación", "Permite autentificar mensajes", "Sencillez de implementacion"],
-    "respuesta_correcta": ""
+    "respuesta_correcta": "Sencillez de implementacion"
   },
 
   {
