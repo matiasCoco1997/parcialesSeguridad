@@ -730,7 +730,7 @@
   },
   {
     "pregunta": "¿Cual de los siguientes elementos no corresponde a una funcion de negocio en SAMM?",
-    "opciones": ["Implementacion", "Diseño", "Construccion", "Gobierno"],
+    "opciones": ["Implementacion", "Diseño", "Constitucion", "Gobierno"],
     "respuesta_correcta": "Diseño"
   },
   {
@@ -987,5 +987,113 @@
       "0011101110110"
     ],
     "respuesta_correcta": "110010000100"
+  },
+
+  {
+    "pregunta": "Cual de estos elementos no corresponde a la lista de verificacion de requerimientos…",
+    "opciones": ["Proteccion de Datos", "Desempeño", "Communications", "Autenticacion"],
+    "respuesta_correcta": "Desempeño"
+  },
+
+  {
+    "pregunta": "Cual de los siguientes algoritmos NO requiere confidencialidad en la distribucion de la clave",
+    "opciones": ["AES","ELGamal", "Ninguna de estas opciones", "DES"],
+    "respuesta_correcta": "ELGamal"
+  },
+
+  {
+    "pregunta": "¿Que modelo de infraestructura de seguridad utiliza PGP ?",
+    "opciones": ["Anillo o Circulo de confianza", "PKI - Infraestructura de Clave Publica", "Ninguna opcion es valida", "ISI - Identificacion integrada de seguridad"],
+    "respuesta_correcta": "Anillo o Circulo de confianza"
+  },
+
+  {
+    "pregunta": "¿Cual de las siguientes es una ventaja de los algoritmos SIMETRICOS?",
+    "opciones": ["No requiere confidencialidad en la distribucion de clave", "La misma clave puede ser utilizada por multiples actores en la comunicación", "Permite autentificar mensajes", "Sencillez de implementacion"],
+    "respuesta_correcta": ""
+  },
+
+  {
+    "pregunta": "¿Cual de las siguientes opciones corresponde a un modelo enfocado en la madurez de las… las caracteristicas esenciales de los procesos que deben existir en una organización para asegurar… sistemas ?",
+    "opciones": ["PCI  DSS", "ISO/IEC 21827:2008", "A4609", "ISO 25000"],
+    "respuesta_correcta": "ISO/IEC 21827:2008"
+  },
+
+  {
+    "pregunta": "¿Cual es el significado del acronimo DSA?",
+    "opciones": ["Ninguna de estas opciones", "Data Signature Algorithm", "Digital Signature Algorithm","Dynamic Signature Algorithm"],
+    "respuesta_correcta": "Digital Signature Algorithm"
+  },
+
+  {
+    "pregunta": "Según Derning, ¿cual de los siguientes elementos no es una etapa del ciclo de calidad total ?",
+    "opciones": ["Auditar", "Planificar ", "Actuar ", "Hacer"],
+    "respuesta_correcta": "Auditar"
+  },
+
+  {
+    "pregunta": "Cual de los siguientes es la encargada de firmar documentos con la finalidad de probar que existian antes de un determinado instante de tiempo ?",
+    "opciones": ["Autoridad de Certificacion", "Autoridad de Registro", "Autoridad de Validadcion", "Autoridad de Sellado de Tiempo"],
+    "respuesta_correcta": "Autoridad de Sellado de Tiempo"
+  },
+
+  {
+    "pregunta": "A que Capability Level correpnden los siguientes common features : Objetively Managing Perfomance y Establish Measure Quality Goals",
+    "opciones": ["Capability level 4", "Capability level 2", "Capability level 5", "Capability level 3"],
+    "respuesta_correcta": "Capability level 4"
+  },
+
+  {
+    "pregunta": "¿Cual de los siguientes es una ventaja de los algoritmos Asimetricos ?",
+    "opciones": ["Logitud del mensaje Ilimitada", "No requiere confidencialidad en la distribucion de clave", "Velocidad de cifrado", "Robustez"],
+    "respuesta_correcta": "No requiere confidencialidad en la distribucion de clave"
+  },
+
+  {
+    "pregunta": "¿Cual de las siguientes opciones NO es una buena practica para evitar vulnerabilidades de XSS ?",
+    "opciones": ["Validacion de entrada positiva o de Lista blanca", "Ninguna de estas opciones", "Codificar los datos no confiables basados en el contexto donde seran ubicados", "Utilizar Apis de auto-sanitizacion"],
+    "respuesta_correcta": "Ninguna de estas opciones"
+  },
+
+  {
+    "pregunta": "¿Que se utiliza cuando una clave publica pierde su validez y debe ser anulada ?",
+    "opciones": ["La clave privada del certificado", "Un certificado de revocacion", "No se requieren acciones, simplemente se procede a crear un nuevo certificado","Un mail de cancelacion firmado digitalmente"],
+    "respuesta_correcta": "Un certificado de revocacion"
+  },
+
+  {
+    "pregunta": " Indique a que elemento corresponde la siguiente definicion: es un marco de trabajo abierto para ayudar a las organizaciones formular e implementar una estrategia de seguridad para software que sea adecuada a las necesidades especificas que esta … organizacion.",
+    "opciones": ["WSS", "SAMM", "SCRUM", "Square"],
+    "respuesta_correcta": "SAMM"
+  },
+
+  {
+    "pregunta": "¿Cual de los siguentes es un metodo de autorizacion en donde las desiciones de accesos se basan en las funciones de un individuo dentro de la organización ?",
+    "opciones": ["Mandatory Access Control (MAC)", "Discretionary Access Control (DAC)", "Ninguna de las opciones", "Role Based Access Control (RBAC)"],
+    "respuesta_correcta": "Role Based Access Control (RBAC)"
+  },
+
+  {
+    "pregunta": "¿Cual de las siguientes opciones no corresponde a un protocolo para interactuar con una aplicacion sin contraseña?",
+    "opciones": ["HTTP", "XML", "Opción 2", "HTTPS"],
+    "respuesta_correcta": "HTTP"
+  },
+
+  {
+    "pregunta": "Que NO se debe registrar en un log? ",
+    "opciones": ["Ids de sesion", "Eventos legales", "Fallos de autenticacion", "Fallos de validacion"],
+    "respuesta_correcta": "Ids de sesion"
+  },
+
+  {
+    "pregunta": "¿Cómo opera el modo ECB (Electronic Codebook)?",
+    "opciones": ["Divide el mensaje en partes y cifra cada parte de manera independiente.", "Realiza un XOR con el bloque previo antes de cifrar cada parte.", "Utiliza un vector de inicialización para cifrar el mensaje.","Opera de manera similar a CFB pero con bloques de salida."],
+    "respuesta_correcta": "Divide el mensaje en partes y cifra cada parte de manera independiente."
+  },
+
+  {
+    "pregunta": "¿Cuáles son las dos ramas principales de la criptografía mencionadas en el resumen?",
+    "opciones": ["Clásica y Moderna", "Simétrica y Asimétrica", "Transposición y Sustitución", "ECB y CBC"],
+    "respuesta_correcta": "Clásica y Moderna"
   }
 ]
