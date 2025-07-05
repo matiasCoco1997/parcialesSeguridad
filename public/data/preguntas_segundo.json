@@ -730,13 +730,8 @@
   },
   {
     "pregunta": "¿Cual de los siguientes elementos no corresponde a una funcion de negocio en SAMM?",
-<<<<<<< HEAD
     "opciones": ["Implementacion", "Diseño", "Constitucion", "Gobierno"],
     "respuesta_correcta": "Diseño"
-=======
-    "opciones": ["Implementacion", "Diseño", "Construccion", "Gobierno"],
-    "respuesta_correcta": "Construccion"
->>>>>>> d77e0c6ef4d316ba4c785865b44fbac0a2e7e135
   },
   {
     "pregunta": "¿Que cantidad de PAs estan defninidos para el SSE-CMM?",
